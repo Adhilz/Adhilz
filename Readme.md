@@ -1,52 +1,57 @@
-<!-- Animated Typing Text -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300F7FF&size=35&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Adhil+Salam!;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌍" />
-</h1>
-
-<!-- About Me -->
-<p align="center">
-  Passionate about building interactive web apps, AI-powered solutions, and creative projects 🚀  
-  Always learning, always evolving 🌱  
-</p>
+<h1 align="center">Hi 👋, I'm Adhil Salam</h1>
+<h3 align="center">Full Stack Developer | AI & ML Enthusiast | Open Source Contributor</h3>
 
 ---
 
-## 🔥 Tech Stack & Tools
+### 👨‍💻 About Me
+- 🔭 Currently working on **AI-powered projects & modern web apps**  
+- 🌱 Exploring **React Native, MERN stack, and Machine Learning**  
+- 🎯 Goal for 2025: **Build impactful open-source tools**  
+- 📫 Reach me at **adhilsalam200@gmail.com**  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/adhilsalam/)  
 
+---
+
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,python,nodejs,express,firebase,mongodb,git,github,vscode&theme=light" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Contributions
-
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhilz&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhilz&theme=radical" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhilz&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhilz&theme=default&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adhilz&theme=radical" />
-</p>
-
----
-
-## ✨ Commit History
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adhilz&theme=default" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
+### 🚀 Featured Projects
 <p align="center">
-  <a href="https://linkedin.com/in/adhilsalam"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:adhilsalam200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Adhilz/PhisherNet-Shield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=PhisherNet-Shield&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/Adhilz/Interview-Simulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=Interview-Simulation&theme=default&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adhilz&theme=flat&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/adhilsalam"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adhilsalam200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
