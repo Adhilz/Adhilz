@@ -54,6 +54,19 @@
 
 ---
 
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/Adhilz/PhisherNet-Shield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=PhisherNet-Shield&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Adhilz/Interview-Simulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=Interview-Simulation&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/adhilsalam"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
