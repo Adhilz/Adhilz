@@ -54,12 +54,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Recent Projects
 <p align="center">
-  <a href="https://github.com/Adhilz/PhisherNet-Shield">
+  <a href="https://github.com/Adhilz/PhisherShield">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=PhisherNet-Shield&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Adhilz/Interview-Simulation">
+  <a href="https://github.com/Adhilz/Mio-Oculus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=Interview-Simulation&theme=tokyonight" />
   </a>
 </p>
