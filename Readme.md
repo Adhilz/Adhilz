@@ -64,6 +64,9 @@
   <a href="https://github.com/Adhilz/PhisherShield">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=PhisherShield&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Adhilz/Ai--Interview-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=Ai--Interview-Simulator&theme=tokyonight" />
+  </a>
   <a ="https://github.com/Adhilz/Mio-Oculus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhilz&repo=Mio-Oculus&theme=tokyonight" />
   </a>
