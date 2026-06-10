@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=200&color=00C4FF&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Adhil+Salam;Full+Stack+Developer+💻;AI+%26+ML+Builder+🤖;Cybersecurity+%26+Assistive+Tech+Explorer;Building+Technology+That+Matters+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=200&color=00C4FF&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Adhil+Salam;Full+Stack+Developer+💻;AI+%26+ML+Builder+🤖;++Cybersecurity+%26+Assistive+Tech+Explorer;Building+Technology+That+Matters+🚀" />
 </h1>
 
 <p align="center">
